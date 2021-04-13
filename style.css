@@ -138,9 +138,10 @@ a.info-box{
 #info-box-full h3{
     text-align : center;
 }
+
 img.info-box-weather-icon{
-    height : 150px;
-    width  : 60px;
+    height : 30px;
+    width  : 30px !important;
     margin : 10px;
     float  :left; 
 }
